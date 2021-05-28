@@ -1,0 +1,11 @@
+body {
+    background-color: #EEE;
+}
+
+.carousel{
+    position: static;
+}
+
+.collapse-apresentacao{
+    width: 26%;
+}
