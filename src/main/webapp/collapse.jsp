@@ -53,7 +53,7 @@
                                 <img class="card-img-top collapse-apresentacao" src="img/jacquin.jpg" alt="Imagem de capa do card">                              
                                 <h5 class="card-title">E agora? O que fará?</h5>
 
-                              <a href="cards.html" class="btn btn-primary">Mostrar seus produtos</a> ou
+                              <a href="cards.jsp" class="btn btn-primary">Mostrar seus produtos</a> ou
                               <a href="https://www.google.com/search?q=empregos+em+pizzaria&rlz=1C1GCEU_pt-BRBR952BR952&oq=empregos+em+piz&aqs=chrome.1.69i57j0j0i22i30l8.3951j0j7&sourceid=chrome&ie=UTF-8" class="btn btn-primary">Procurar outro emprego</a>
                             </div>
                            
